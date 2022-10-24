@@ -31,7 +31,7 @@ module.exports = {
 			let ter = `
  🔰 *${tlang().title}* 🔰
 *🌟الوصف:* واتساب بوت ب مميزات كثيره, اصنع في NodeJs لصنع وتساب enjoyable.
-*♥️قروب الدعم , https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn.
+*♥️قروب الدعم , https://chat.whatsapp.com/IJnyOohnm2Y9F6MWgruFj5.
 *⚡السرعه:* ${latensie.toFixed(4)} ms
 *🚦مده التشغيل:* ${runtime(process.uptime())}
 *🕸الاصدار:* 1.0.0
